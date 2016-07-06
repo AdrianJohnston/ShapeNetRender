@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_aboutdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_aboutdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_acknowledgmentdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_acknowledgmentdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_addserverdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_addserverdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_glwidget.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_glwidget.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_importdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_importdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_loaddlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_loaddlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_locateresourcedlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_locateresourcedlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_logwidget.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_logwidget.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_mainwindow.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_mainwindow.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_preview.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_preview.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_previewsettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_previewsettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_programsettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_programsettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_rendersettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_rendersettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_sceneimporter.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_sceneimporter.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_sceneinfodlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_sceneinfodlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_server.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_server.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_tabbar.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_tabbar.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_updatedlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_updatedlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_upgrade.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_upgrade.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_xmltreemodel.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_xmltreemodel.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/qrc_resources.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/qrc_resources.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_aboutdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_aboutdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_acknowledgmentdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_acknowledgmentdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_addserverdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_addserverdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_glwidget.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_glwidget.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_importdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_importdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_loaddlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_loaddlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_locateresourcedlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_locateresourcedlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_logwidget.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_logwidget.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_mainwindow.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_mainwindow.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_preview.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_preview.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_previewsettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_previewsettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_programsettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_programsettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_rendersettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_rendersettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_sceneimporter.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_sceneimporter.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_sceneinfodlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_sceneinfodlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_server.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_server.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_tabbar.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_tabbar.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_updatedlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_updatedlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_upgrade.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_upgrade.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_xmltreemodel.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_xmltreemodel.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/qrc_resources.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/qrc_resources.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_aboutdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_aboutdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_acknowledgmentdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_acknowledgmentdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_addserverdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_addserverdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_glwidget.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_glwidget.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_importdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_importdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_loaddlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_loaddlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_locateresourcedlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_locateresourcedlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_logwidget.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_logwidget.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_mainwindow.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_mainwindow.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_preview.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_preview.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_previewsettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_previewsettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_programsettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_programsettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_rendersettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_rendersettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_sceneimporter.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_sceneimporter.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_sceneinfodlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_sceneinfodlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_server.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_server.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_tabbar.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_tabbar.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_updatedlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_updatedlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_upgrade.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_upgrade.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_xmltreemodel.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_xmltreemodel.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/qrc_resources.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/qrc_resources.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_aboutdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_aboutdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_acknowledgmentdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_acknowledgmentdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_addserverdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_addserverdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_glwidget.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_glwidget.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_importdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_importdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_loaddlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_loaddlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_locateresourcedlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_locateresourcedlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_logwidget.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_logwidget.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_mainwindow.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_mainwindow.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_preview.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_preview.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_previewsettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_previewsettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_programsettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_programsettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_rendersettingsdlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_rendersettingsdlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_sceneimporter.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_sceneimporter.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_sceneinfodlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_sceneinfodlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_server.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_server.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_tabbar.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_tabbar.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_updatedlg.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_updatedlg.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_upgrade.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_upgrade.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_xmltreemodel.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_xmltreemodel.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/qrc_resources.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/qrc_resources.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/subsurface/irrtree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subsurface/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subsurface/bluenoise.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subsurface/irrproc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subsurface/bluenoise.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subsurface/irrtree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subsurface/irrproc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/subsurface/dipole.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/edge.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/util.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/mut_manifold.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/pathsampler.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/rsampler.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/mut_caustic.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/mut_mchain.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/vertex.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/path.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/common.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/manifold.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/verification.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/mut_lens.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libbidir/mut_bidir.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/medium/homogeneous.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/medium/maxexp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/medium/heterogeneous.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/medium/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/cylclip.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/joinrgb.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/tonemap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/addimages.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/kdbench.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_kd.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_random.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_quad.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_chisquare.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_sh.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_rtrans.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_la.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_spectrum.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_dgeom.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tests/test_samplers.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/volume/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/volume/hgridvolume.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/volume/constvolume.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/volume/gridvolume.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/volume/volcache.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/thread.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/tls.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/properties.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/statistics.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/sshstream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/class.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/quad.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/zstream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/qmc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/vmf.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/object.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/fmtconv.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/cstream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/shvector.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/half.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/ssemath.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/sched_remote.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/warp.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/transform.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/spline.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/track.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/formatter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/brent.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/math.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/chisquare.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/random.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/fresolver.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/timer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/logger.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/aabb.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/mstream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/rfilter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/lock.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/sched.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/spectrum.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/serialization.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/bitmap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/fstream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/stream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/sstream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/appender.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/triangle.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/plugin.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/util.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libcore/mmap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libpython/base.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libpython/core.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libpython/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libpython/render.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/xmltreemodel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/tabbar.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/simdtonemap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/loaddlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/sceneimporter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/mainwindow.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/programsettingsdlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/preview.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/tabbar.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/locateresourcedlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/programsettingsdlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/pch/mtsgui_precompiled.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/sceneinfodlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/sceneloader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/sceneloader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/resources.qrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/programsettingsdlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/previewsettingsdlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/logwidget.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/addserverdlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/rendersettingsdlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/acknowledgmentdlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/updatedlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/sceneimporter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/previewsettingsdlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/aboutdlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/loaddlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/mainwindow.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/importdlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/server.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/glwidget.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/updatedlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/symlinks_auth.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/importdlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/upgrade.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/acknowledgmentdlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/xmltreemodel.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/simdtonemap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/mainwindow.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/preview.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/rendersettingsdlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/aboutdlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/previewsettingsdlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/locateresourcedlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/addserverdlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/save.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/aboutdlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/server.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/logwidget.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/test_simdtonemap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/upgrade.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/importdlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/save.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/rendersettingsdlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/addserverdlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/loaddlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/locateresourcedlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/sceneinfodlg.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/updatedlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/glwidget.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/acknowledgmentdlg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mtsgui/sceneinfodlg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/hammersley.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/faure.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/independent.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/faure.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/ldsampler.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/sobolseq.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/sobolseq.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/halton.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/stratified.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/samplers/sobol.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/erpt/erpt_proc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/erpt/erpt_proc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/erpt/erpt.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/erpt/erpt.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/photonmapper/bre.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/photonmapper/sppm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/photonmapper/ppm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/photonmapper/bre.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/photonmapper/photonmapper.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/direct/direct.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/direct/ao.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/mlt/mlt.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/mlt/mlt_proc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/mlt/mlt_proc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/mlt/mlt.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/bdpt/bdpt_proc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/bdpt/bdpt_wr.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/bdpt/bdpt.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/bdpt/bdpt.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/bdpt/bdpt_wr.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/bdpt/bdpt_proc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/pssmlt/pssmlt_sampler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/pssmlt/pssmlt.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/pssmlt/pssmlt_proc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/pssmlt/pssmlt_proc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/pssmlt/pssmlt_sampler.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/pssmlt/pssmlt.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/ptracer/ptracer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/ptracer/ptracer_proc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/ptracer/ptracer_proc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/path/volpath.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/path/volpath_simple.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/path/path.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/vpl/vpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/misc/irrcache.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/misc/irrcache_proc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/misc/field.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/misc/multichannel.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/misc/adaptive.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/integrators/misc/irrcache_proc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/sun.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/sky.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/sunsky.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/directional.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/sunsky/skymodel.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/sunsky/sunmodel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/sunsky/skymodeldata.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/sunsky/skymodel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/constant.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/spot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/point.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/collimated.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/envmap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/emitters/area.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/basicshader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/glgeometry.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/gpuprogram.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/glprogram.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/glxdevice.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/gltexture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/session.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/glrenderer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/x11session.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/gpusync.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/glsync.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/renderer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/device.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/x11device.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/font.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/gputexture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/viewer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/vpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/gpugeometry.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/shadow.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/libhw/glxrenderer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/phase/microflake.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/phase/hg.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/phase/isotropic.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/phase/kkay.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/phase/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/phase/microflake_fiber.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/phase/mixturephase.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/phase/rayleigh.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/films/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/films/tiledhdrfilm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/films/cnpy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/films/cnpy.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/films/mfilm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/films/ldrfilm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/films/hdrfilm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/films/banner.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/films/annotations.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/textures/gridtexture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/textures/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/textures/checkerboard.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/textures/vertexcolors.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/textures/curvature.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/textures/wireframe.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/textures/bitmap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/textures/scale.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/perspective.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/thinlens.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/orthographic.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/fluencemeter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/telecentric.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/perspective_rdist.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/radiancemeter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/spherical.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/sensors/irradiancemeter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/conductor.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/roughdiffuse.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/mask.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/roughconductor.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/plastic.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/phong.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/roughcoating.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/irawan.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/thindielectric.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/irawan.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/mixturebsdf.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/microfacet.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/twosided.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/difftrans.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/roughplastic.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/ward.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/coating.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/hk.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/normalmap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/bumpmap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/null.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/dielectric.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/diffuse.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/ior.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/roughdielectric.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bsdfs/blendbsdf.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/particleproc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/intersection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/volume.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/renderqueue.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/imageblock.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/bsdf.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/film.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/subsurface.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/trimesh.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/photonmap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/noise.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/irrcache.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/phase.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/gatherproc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/photon.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/renderjob.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/medium.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/vpl.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/common.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/emitter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/scenehandler.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/integrator.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/renderproc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/rectwu.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/sensor.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/imageproc.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/testcase.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/skdtree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/shader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/sampler.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/shape.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/scene.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/texture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/librender/util.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/converter/collada.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/converter/converter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/converter/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/converter/obj.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/converter/mtsimport.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/converter/converter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rfilters/mitchell.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rfilters/gaussian.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rfilters/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rfilters/lanczos.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rfilters/catmullrom.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rfilters/box.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rfilters/tent.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mitsuba/mitsuba.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mitsuba/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mitsuba/mtssrv.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/mitsuba/mtsutil.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/serialized.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/disk.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/cylinder.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/instance.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/ply/ply.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/ply/byte_order.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/ply/io_operators.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/ply/ply_parser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/ply/ply_parser.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/ply/config.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/cube.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/obj.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/rectangle.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/instance.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/hair.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/shapegroup.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/hair.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/ply.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/heightfield.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/shapegroup.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/shapes/sphere.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/spline.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/sched_remote.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/serialization.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/sfcurve.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/timer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/sse.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/object.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/transform.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/pmf.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/thread.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/ssemath.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/spectrum.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/barray.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/bitmap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/brent.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/chisquare.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/atomic.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/appender.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/shvector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/simplecache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/class.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/fresolver.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/ssevector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/version.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/util.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/formatter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/cobject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/lock.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/matrix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/matrix.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/quat.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/frame.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/properties.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/triangle.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/kdtree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/vmf.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/vector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/track.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/point.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/zstream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/constants.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/cstream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/sstream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/aabb.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/half.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/fstream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/aabb_sse.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/rfilter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/ref.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/quad.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/random.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/plugin.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/ray.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/ray_sse.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/bsphere.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/sched.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/lrucache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/platform.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/math.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/statistics.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/netobject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/normal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/mempool.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/octree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/tls.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/fwd.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/logger.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/sshstream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/mmap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/mstream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/warp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/stream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/core/qmc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/glprogram.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/font.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/gpusync.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/vpl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/glxrenderer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/gpuprogram.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/glrenderer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/gputexture.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/device.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/gpugeometry.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/session.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/glgeometry.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/shadow.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/glsync.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/basicshader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/x11session.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/glxdevice.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/gltexture.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/x11device.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/viewer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/hw/renderer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/mut_bidir.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/vertex.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/mempool.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/mut_mchain.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/rsampler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/geodist2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/mut_manifold.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/pathsampler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/mut_lens.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/util.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/path.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/mut_caustic.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/manifold.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/edge.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/bidir/mutator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/bsdf.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/skdtree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/photon.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/noise.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/renderproc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/vpl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/sampler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/fwd.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/imageblock.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/film.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/triaccel_sse.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/shape.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/mipmap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/renderjob.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/phase.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/triaccel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/util.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/particleproc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/range.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/sahkdtree3.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/spiral.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/integrator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/records.inl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/irrcache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/subsurface.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/sahkdtree2.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/emitter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/volume.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/sensor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/rectwu.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/trimesh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/medium.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/shader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/photonmap.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/scenehandler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/texture.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/renderqueue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/imageproc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/testcase.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/scene.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/gkdtree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/render/gatherproc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/include/mitsuba/mitsuba.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/ior/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/FindCOLLADA.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/FindXerces.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/packaging/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/MtsGetVersionInfo.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/MitsubaUtil.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/FindEigen.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/FindIlmBase.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/MitsubaExternal.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/FindFFTW3.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/FindGLEW.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/FindX11.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/FindOpenEXR.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/MitsubaBuildOptions.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/PCHTargets.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/cmake/FindReleaseAndDebug.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/pch/mitsuba_precompiled.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/microfacet/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/schema/scene.xsd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data/schema/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file:///usr/local/cuda/include" />
+          <root url="file://$APPLICATION_HOME_DIR$/bin" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/shapes" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/libcore" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/libhw" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/librender" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/samplers" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/films" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mitsuba" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/subsurface" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/libbidir" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/integrators" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/emitters" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/converter" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/films" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/samplers" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/libhw" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/shapes" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/librender" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mitsuba" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/libcore" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/subsurface" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/libbidir" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/integrators" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/emitters" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/converter" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/shapes" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/samplers" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/libhw" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/librender" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/libbidir" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mitsuba" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/subsurface" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/libcore" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/integrators" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/emitters" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/films" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/converter" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/films" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/samplers" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/libhw" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/librender" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/emitters" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mitsuba" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/shapes" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/libcore" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/libbidir" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/integrators" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/subsurface" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/converter" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file:///usr/local/cuda/include" />
+          <root url="file://$APPLICATION_HOME_DIR$/bin" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/shapes" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/libcore" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/libhw" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/librender" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/samplers" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/films" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mitsuba" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/subsurface" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/libbidir" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/integrators" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/emitters" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/converter" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/films" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/samplers" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/libhw" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/shapes" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/librender" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mitsuba" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/libcore" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/subsurface" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/libbidir" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/integrators" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/emitters" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/converter" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/shapes" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/samplers" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/libhw" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/librender" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/libbidir" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mitsuba" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/subsurface" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/libcore" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/integrators" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/emitters" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/films" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/converter" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/films" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/samplers" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/libhw" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/librender" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/emitters" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mitsuba" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/shapes" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/libcore" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/libbidir" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/integrators" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/subsurface" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/converter" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/qrc_resources.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_rendersettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_xmltreemodel.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_updatedlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_programsettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_sceneinfodlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_loaddlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_acknowledgmentdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_sceneimporter.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_preview.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_mainwindow.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_tabbar.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_locateresourcedlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_upgrade.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_server.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_previewsettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_glwidget.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_addserverdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_logwidget.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_importdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Release/src/mtsgui/moc_aboutdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_acknowledgmentdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_updatedlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_rendersettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_xmltreemodel.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_programsettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_sceneinfodlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_loaddlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/qrc_resources.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_sceneimporter.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_locateresourcedlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_mainwindow.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_tabbar.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_addserverdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_preview.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_server.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_previewsettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_glwidget.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_upgrade.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_logwidget.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_importdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/Debug/src/mtsgui/moc_aboutdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_loaddlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_updatedlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_xmltreemodel.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_programsettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_sceneinfodlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_rendersettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_acknowledgmentdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_sceneimporter.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_preview.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_mainwindow.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_server.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/qrc_resources.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_tabbar.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_upgrade.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_locateresourcedlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_previewsettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_glwidget.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_addserverdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_logwidget.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_importdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/RelWithDebInfo/src/mtsgui/moc_aboutdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_loaddlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/qrc_resources.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_rendersettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_xmltreemodel.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_updatedlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_programsettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_sceneinfodlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_sceneimporter.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_acknowledgmentdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_locateresourcedlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_mainwindow.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_tabbar.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_preview.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_upgrade.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_server.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_previewsettingsdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_glwidget.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_addserverdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_logwidget.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_importdlg.cxx" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/mitsuba-b5cf7478/b5cf7478/MinSizeRel/src/mtsgui/moc_aboutdlg.cxx" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>
