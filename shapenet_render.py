@@ -66,7 +66,7 @@ if __name__ == "__main__":
     parser.add_argument('-o', '--output_dir', default=output_dir,help='Model directory to load or save model_file from')
     parser.add_argument('-n', '--num_classes', default=55, type=int)
     parser.add_argument('-d', '--dry_run', default=True, action='store_true')
-    parser.add_argument('-j', '--num_processes', default=2)
+    parser.add_argument('-j', '--num_processes', default=2, type=int)
     args = parser.parse_args()
     print (args)
 
