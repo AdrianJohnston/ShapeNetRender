@@ -83,7 +83,7 @@ def main(input_file, output_dir, output_name, img_width, img_height, num_samples
     pmgr = PluginManager.getInstance()
 
     # Bed pos
-    camera_pos = Vector(0, 2.5, 5.0)
+    camera_pos = Vector(0, 2.5, 6.0)
     model_pos = Vector(0.0, 0, 0.0)
 
     a = MitsubaShape(shape_type=MitsubaShape.PLY_TYPE, to_world=Transform.translate(model_pos), filename=input_file)
@@ -119,12 +119,12 @@ def main(input_file, output_dir, output_name, img_width, img_height, num_samples
     }
 
     # scene_config['cube'] = create_object('cube', Transform.translate(model_pos), bsdf=create_bsdf())
-
-    xangles = [y for y in frange(0, 360, np.floor(360 / 12))]
+    num_views = 6
+    xangles = [y for y in frange(0, 360, np.floor(360 / num_views))]
     # xangles = [x for x in frange(0,12, 1.0)]
     yangles = [0.0]
     print(yangles)
-    num_views = len(xangles) * len(yangles)
+    # num_views = len(xangles) * len(yangles)
     # step_size = 360/(num_views)
     step_size = 1
 
@@ -243,7 +243,7 @@ if __name__ == "__main__":
     print (args)
 
     parser = argparse.ArgumentParser(description='Default Experiment Template')
-    parser.add_argument('-i', '--input_mesh', default='/media/adrian/Data/test_objs/bath3.ply', help='Input mesh file directory')
+    parser.add_argument('-i', '--input_mesh', default='/media/adrian/Data/test_objs/plane.ply', help='Input mesh file directory')
     parser.add_argument('-o', '--output_dir', default='/media/adrian/Data/rendered_imgs/', help='Directory to write imgs out to')
     parser.add_argument('-on', '--output_name', default='img', help='The output filename')
     parser.add_argument('-iw', '--img_width', default=224, type=int)
