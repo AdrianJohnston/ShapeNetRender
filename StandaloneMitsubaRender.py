@@ -65,8 +65,13 @@ def get_filename(filepath):
 
 def check_mkdir(dir):
 
-    if not os.path.exists(dir):
-        os.makedirs(dir)
+    try:
+        if not os.path.exists(dir):
+            os.makedirs(dir)
+    except:
+        #//It was created by another process simultaneously
+        pass
+
 
     return
 
