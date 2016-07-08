@@ -137,6 +137,6 @@ if __name__ == "__main__":
         run_time = time.time() - start
         print("Test Run, num exec:", len(res), "Run Time:", run_time)
     else:
-        #res = pool.map(exec_cmd, cmds)
+        res = pool.map(exec_cmd, cmds)
         res= []
         print("Full Run, num exec:", len(res))
