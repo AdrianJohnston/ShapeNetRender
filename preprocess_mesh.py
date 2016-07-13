@@ -59,7 +59,7 @@ def blender_preprocess(input_file, output_file, export_type):
     filename = input_file.split("/")[-1].split(".")[0]
     obj = bpy.data.objects[filename]
     print (obj.name)
-    preprocess_mesh(obj)
+    # preprocess_mesh(obj)
 
     export_type = export_type.lower()
     if export_type == 'obj':

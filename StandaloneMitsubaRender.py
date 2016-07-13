@@ -88,7 +88,7 @@ def main(input_file, output_dir, output_name, img_width, img_height, num_samples
     pmgr = PluginManager.getInstance()
 
     # Bed pos
-    camera_pos = Vector(0, 2.5, 6.0)
+    camera_pos = Vector(0, 1.0, 2.0)
     model_pos = Vector(0.0, 0, 0.0)
 
     a = MitsubaShape(shape_type=MitsubaShape.PLY_TYPE, to_world=Transform.translate(model_pos), filename=input_file)
@@ -248,7 +248,7 @@ if __name__ == "__main__":
     print (args)
 
     parser = argparse.ArgumentParser(description='Default Experiment Template')
-    parser.add_argument('-i', '--input_mesh', default='/media/adrian/Data/test_objs/plane.ply', help='Input mesh file directory')
+    parser.add_argument('-i', '--input_mesh', default='/media/adrian/Data/test_objs/1.ply', help='Input mesh file directory')
     parser.add_argument('-o', '--output_dir', default='/media/adrian/Data/rendered_imgs/', help='Directory to write imgs out to')
     parser.add_argument('-on', '--output_name', default='img', help='The output filename')
     parser.add_argument('-iw', '--img_width', default=224, type=int)
